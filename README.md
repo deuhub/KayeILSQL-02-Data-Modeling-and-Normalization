@@ -1,5 +1,6 @@
 # KayeILSQL-02-Data-Modeling-and-Normalization
 KayeILSQL-02-Data-Modeling-and-Normalization
+
 # kayeilsql
 This unassuming work “Kaye is Learning SQL”, comprises of my notes on SQL, and teaches basic SQL. It is written in html and is free of charge, available in GitHub Pages. Although my starting point is; “let more girls/women/females have tech roles”, these notes of course 😊 can be of use to anyone who want to learn SQL.
 
